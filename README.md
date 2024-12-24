@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abhishekdav648@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Qg1k3Tcuf1mn_8yeqsRGzBGWk85kK7A1/view?usp=drivesdk]([https://drive.google.com/file/d/1Qg1k3Tcuf1mn_8yeqsRGzBGWk85kK7A1/view?usp=drivesdk](https://drive.google.com/file/d/1KMhsjZ6jP44l-8NtlCpLp1gFn-pDWEra/view))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Qg1k3Tcuf1mn_8yeqsRGzBGWk85kK7A1/view?usp=drivesdk](https://drive.google.com/file/d/1KMhsjZ6jP44l-8NtlCpLp1gFn-pDWEra/view)
 
 - ⚡ Fun fact **Debugging was literally invented when a real bug (a moth) was found causing issues in an early computer! 🐛**
 
